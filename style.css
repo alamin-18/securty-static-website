@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+body{
+    padding: 0;
+    margin: 0;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    background-color: #ffffff;
+    
+}
+
+.welcome{
+    color: brown;
+}
+.main-container{
+    width: 1425px;
+    height: 750px;
+    /* background-color: black; */
+    background-blend-mode: overlay;
+    background-image: url('https://www.eldoradoinsurance.com/wp-content/uploads/2021/09/Security-Guards-and-Cybersecurity-1024x576.jpg') ;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    margin: auto;
+    
+}
+.navbar{
+    width: 1264px;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 40px;
+    margin: auto;
+    
+}
+.menu-bar{
+    color: #FB9D5C;
+    display: flex;
+    gap: 40px;
+}
+li{
+    list-style: none;
+    cursor: pointer;
+}
+.full-high-light{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.first-half {
+    width: 367px;
+    text-align: center;
+    
+}
+.first-half h1{
+    color: #ffffff;
+    font-size: 40px;
+    font-style: italic;
+    
+}
+.first-half p{
+    
+    color: #FB9D5C;
+    font-size: 20px;
+}
+.btn{
+    padding: 20px 20px;
+    font-size: 20px;
+    background-color: #FB9D5C;
+    color: #ffffff;
+    border-radius: 7px;
+}
+.secode-half img{
+    height: 630px;
+}
+.bands{
+    width: 1425px;
+    height: 206.27px;
+    margin: auto;
+
+}
+.band-img{
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 60px 170px;
+}
