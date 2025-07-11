@@ -155,8 +155,85 @@ li{
 }
 .hire-us{
     width: 1425px;
-    
     margin: auto;
     display: flex;
-    justify-content: ;
+    justify-content: space-around;
+    align-items: center;
+}
+.hire-text{
+    width: 620px;
+}
+.hire-text p{
+    font-size: 15px;
+    color: #212529;
+}
+.hire-text h2{
+    font-size: 37.7px;
+    font-weight: 500;
+}
+.hire-text h4{
+    font-size: 29.7px;
+    color: #212529;
+    
+}
+.hire-text i{
+    font-size: 40.7px;
+    color: #FB9D5C;
+    
+}
+.hire-text-designe{
+    color: #FB9D5C;
+}
+.h-btn{
+    background-color: aqua;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+
+}
+.footer{
+    width: 1425px;
+    height: 392.8px;
+    margin: auto;
+    margin-top: -4px;
+    background-color: #151515;
+}
+.footer-flex{
+    display: flex;
+    padding: 60px 90px;
+    
+}
+.footer-card-1{
+    color: #ffffff;
+    width: 321.25px;
+    text-align: center;
+
+}
+.footer-card-1 h4{
+    color: #FB9D5C;
+
+    
+}
+.img{
+    display: flex;
+    gap: 10px;
+}
+.img h2{
+    color: #FB9D5C;
+}
+.footer-card-2{
+    color: #ffffff;
+    width: 214.16px;
+    text-align: center;
+}
+.footer-card-3{
+    color: #fff;
+    text-align: center;
+}
+.address{
+    display: flex;
+    gap: 20px;
+}
+.addres-2{
+    color: #FB9D5C;
 }
