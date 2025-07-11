@@ -87,3 +87,42 @@ li{
     align-items: center;
     padding: 60px 170px;
 }
+.service-area{
+    width: 1425px;
+    height: 824px;
+    margin: auto;
+    color: #212529;
+}
+.service-text{
+    width: 570px;
+    text-align: center;
+    margin: auto;
+    
+}
+.service-text h1{
+    font-size: 35px;
+    margin-bottom: 0;
+}
+.text-color{
+    color: #FB9D5C;
+    font-size: 25px;
+    margin-top: 0;
+}
+.service-card{
+    width: 356px;
+    height: 280px;
+    border: 1px solid #212529;
+    text-align: center;
+    padding: 10px 5px;
+
+}
+.service-card h2{
+    font-size: 18.9px;
+}
+.service-card p{
+    font-size: 16.9px;
+    margin-bottom: 0;
+}
+.service-card img{ 
+    margin-top: 20px;
+}
